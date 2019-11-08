@@ -68,3 +68,35 @@ Name of Artist | Ace of Base
 --Preview Link of Song Below--
 https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=2e9564e8cabc40308a68239bcbc7186e
 -----------------------------
+--------| Your Song |--------
+Name of Song | All That She Wants
+Name of Album | The Sign (US Album) [Remastered]
+Name of Artist | Ace of Base
+--Preview Link of Song Below--
+https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=2e9564e8cabc40308a68239bcbc7186e
+-----------------------------
+--------| Your Song |--------
+Name of Song | Little Things
+Name of Album | Take Me Home: Yearbook Edition
+Name of Artist | One Direction
+--Preview Link of Song Below--
+https://p.scdn.co/mp3-preview/3b7f9ecc229d2fae6a60cd32879256113c0e246a?cid=2e9564e8cabc40308a68239bcbc7186e
+-----------------------------
+--------| Your Concert |--------
+Name of Band/Artist | Céline Dion
+Name of Venue | Bell Centre
+Location of Concert | Montreal, , Canada
+Date of Concert | 11/18/2019
+--------------------------------
+--------| Your Concert |--------
+Name of Band/Artist | The Black Keys
+Name of Venue | PNC Arena
+Location of Concert | Raleigh, NC, United States
+Date of Concert | 11/08/2019
+--------------------------------
+--------| Your Concert |--------
+Name of Band/Artist | Alice Cooper
+Name of Venue | Beau Rivage Resort & Casino
+Location of Concert | Biloxi, MS, United States
+Date of Concert | 11/09/2019
+--------------------------------
