@@ -27,6 +27,9 @@ function UserInputs (queryInput, searchInput){
       case 'movie-this':
           queryMovie(searchInput);
           break;
+      case 'do-what-it-says':
+          whatItSays(searchInput);
+          break;
       default:
           console.log("You didn't give LIRI a valid option. Please use any of the following options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says \nThen you can type what you are searching for. Just remember to type your search in quotes. \nFor example \"The Matrix\"")
     }
@@ -163,6 +166,14 @@ function queryMovie() {
   };
 
 // "Do what it says" function
-
+function whatItSays(){
+	fs.readFile('random.txt', 'utf8', function(err, data){
+		if (err){ 
+			return console.log(err);
+		}
+        var dataArr = data.split(',');
+        UserInputs(dataArr[0], dataArr[1]);
+	});
+}
 
 UserInputs(queryInput, searchInput)
